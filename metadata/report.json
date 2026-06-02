@@ -1,5 +1,4 @@
 {
-  "schema_version": "0.1.0",
   "report_id": "2025-064b",
   "repo_name": "verasight-report-2025-064b",
   "title": "AI Adoption Survey July 2025",
@@ -18,7 +17,5 @@
   "modules": [
     "AI Adoption Survey July 2025",
     "AI Adoption Survey August 2025"
-  ],
-  "publication_status": "ready_for_draft",
-  "reuse_status": "reference_only_pending_verasight_license_decision"
+  ]
 }
