@@ -4,7 +4,7 @@ Public survey data files for AI Adoption Survey July 2025.
 
 ## Links
 
-- Source report: <https://reports.verasight.io/reports/ai-adoption-survey-july-2025>
+- Source report: <https://github.com/Verasight/verasight-report-2025-064b>
 - Verasight Data Library: <https://data.verasight.io/>
 - Data release index: <https://github.com/Verasight/verasight-data-releases>
 
