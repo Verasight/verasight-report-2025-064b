@@ -3,7 +3,8 @@
   "repo_name": "verasight-report-2025-064b",
   "title": "AI Adoption Survey July 2025",
   "wave_id": "2025-064b",
-  "source_report_url": "https://reports.verasight.io/reports/ai-adoption-survey-july-2025",
+  "survey_id": "2025-064b",
+  "source_report_url": "https://github.com/Verasight/verasight-report-2025-064b",
   "data_library_url": "https://data.verasight.io/",
   "field_dates": {
     "start": "2025-07-30",

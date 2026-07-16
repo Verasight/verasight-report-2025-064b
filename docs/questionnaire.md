@@ -1,90 +1,134 @@
 # Questionnaire
 
-Source report: <https://reports.verasight.io/reports/ai-adoption-survey-july-2025>
+Source report: <https://github.com/Verasight/verasight-report-2025-064b>
 
 ## 2025-064b_q12_1
 
+Now thinking about workers in general, how important do you think each of the following is for a worker to be successful in today’s economy?
 - Interpersonal skills, such as getting along with people and resolving conflicts
+
+Filter: nan
 
 ## 2025-064b_q12_10
 
+Now thinking about workers in general, how important do you think each of the following is for a worker to be successful in today’s economy?
 - Ability to integrate AI into work
+
+Filter: nan
 
 ## 2025-064b_q12_2
 
+Now thinking about workers in general, how important do you think each of the following is for a worker to be successful in today’s economy?
 - Written and spoken communication skills
+
+Filter: nan
 
 ## 2025-064b_q12_3
 
+Now thinking about workers in general, how important do you think each of the following is for a worker to be successful in today’s economy?
 - Management or leadership skills
+
+Filter: nan
 
 ## 2025-064b_q12_4
 
+Now thinking about workers in general, how important do you think each of the following is for a worker to be successful in today’s economy?
 - Skills to operate, build, or repair machinery or equipment
+
+Filter: nan
 
 ## 2025-064b_q12_5
 
+Now thinking about workers in general, how important do you think each of the following is for a worker to be successful in today’s economy?
 - The ability to do physical or manual work or use hand tools
+
+Filter: nan
 
 ## 2025-064b_q12_6
 
+Now thinking about workers in general, how important do you think each of the following is for a worker to be successful in today’s economy?
 - Basic computer skills, such as word processing or creating spreadsheets
+
+Filter: nan
 
 ## 2025-064b_q12_7
 
+Now thinking about workers in general, how important do you think each of the following is for a worker to be successful in today’s economy?
 - High-level math, analytical, or computer skills
+
+Filter: nan
 
 ## 2025-064b_q12_8
 
+Now thinking about workers in general, how important do you think each of the following is for a worker to be successful in today’s economy?
 - Skills to understand and use artificial intelligence tools or technology
+
+Filter: nan
 
 ## 2025-064b_q12_9
 
+Now thinking about workers in general, how important do you think each of the following is for a worker to be successful in today’s economy?
 - Critical thinking skills, such as evaluating facts and making informed decisions
+
+Filter: nan
 
 ## 2025-064b_q14
 
 What is your current employment status?
 
+Filter: nan
+
 ## 2025-064b_q17
 
 Which of the following AI tools do you plan to use in the next month?
 
+Filter: nan
+
 ## 2025-064b_q18_1
 
+On a scale from 0-10, how likely are you to recommend each of the following AI tools to a friend or family member? Note: A 0 indicates not at all likely and a 10 indicates extremely likely.
 - ChatGPT
 
 ## 2025-064b_q18_2
 
+On a scale from 0-10, how likely are you to recommend each of the following AI tools to a friend or family member? Note: A 0 indicates not at all likely and a 10 indicates extremely likely.
 - Microsoft Copilot
 
 ## 2025-064b_q18_3
 
+On a scale from 0-10, how likely are you to recommend each of the following AI tools to a friend or family member? Note: A 0 indicates not at all likely and a 10 indicates extremely likely.
 - Google Gemini
 
 ## 2025-064b_q18_4
 
+On a scale from 0-10, how likely are you to recommend each of the following AI tools to a friend or family member? Note: A 0 indicates not at all likely and a 10 indicates extremely likely.
 - Claude AI
 
 ## 2025-064b_q18_5
 
+On a scale from 0-10, how likely are you to recommend each of the following AI tools to a friend or family member? Note: A 0 indicates not at all likely and a 10 indicates extremely likely.
 - Grok
 
 ## 2025-064b_q18_6
 
+On a scale from 0-10, how likely are you to recommend each of the following AI tools to a friend or family member? Note: A 0 indicates not at all likely and a 10 indicates extremely likely.
 - Deepseek
 
 ## 2025-064b_q18_7
 
+On a scale from 0-10, how likely are you to recommend each of the following AI tools to a friend or family member? Note: A 0 indicates not at all likely and a 10 indicates extremely likely.
 - Perplexity
 
 ## 2025-064b_q18_8
 
+On a scale from 0-10, how likely are you to recommend each of the following AI tools to a friend or family member? Note: A 0 indicates not at all likely and a 10 indicates extremely likely.
 - Llama by Meta
 
 ## 2025-064b_q20
 
 In the past 30 days, about how much money did you personally spend on AI‑powered software, apps, or subscriptions (including add‑ons to services you already pay for)?
+
+Filter: Asked only of respondents who said they had used AI tools in their work or personal life in the past month (q3 = Yes).
 
 ## 2025-064b_q22
 
@@ -92,6 +136,7 @@ When you share or publish content that was created or heavily edited with AI, ho
 
 ## 2025-064b_q23_1
 
+On a scale from 0 – 10, how accurate do you feel AI chatbots’ answers are on topics you know well?
 (0 = completely inaccurate, 10 = always accurate) - Click and drag the slider to indicate your response.
 
 ## 2025-064b_q24
@@ -110,6 +155,8 @@ Have you lost a job in the past 12 months?
 
 Do you believe AI or automation played a role in your job loss?
 
+Filter: If Have you lost a job in the past 12 months? Yes Is Selected
+
 ## 2025-064b_q28
 
 What is/was your job level in your current or most recent role?
@@ -125,6 +172,8 @@ How often, if at all, do you use AI in the workplace?
 ## 2025-064b_q31
 
 Regardless of how much of your work is currently done with AI, how much of what you do in your job do you think can be done with AI?
+
+Filter: Asked only of respondents in the labor force: employed full-time or part-time, self-employed, temporarily laid off or furloughed, or unemployed and looking for work (q14 responses 1-5).
 
 ## 2025-064b_q32
 
@@ -142,45 +191,71 @@ Has AI replaced a job or task that someone at your company used to do?
 
 How confident are you that you can tell whether content (text, images, or video) was generated by AI?
 
+Filter: nan
+
 ## 2025-064b_q37
 
 Do you favor or oppose requiring clear labels when content has been generated or heavily modified by AI?
+
+Filter: nan
 
 ## 2025-064b_q38
 
 Do you favor or oppose requiring AI developers to pass independent safety tests before releasing powerful new models to the public?
 
+Filter: nan
+
 ## 2025-064b_q39
 
+Some experts have proposed a temporary pause on developing AI systems that can outperform humans at most tasks until stronger regulations are in place.
 Do you support or oppose this idea?
+
+Filter: nan
 
 ## 2025-064b_q40
 
 How confident are you that government regulators can effectively enforce AI rules and keep pace with new technologies?
 
+Filter: nan
+
 ## 2025-064b_q6_ado
 
+When you are looking for information online, how often do you use each of the following tools?
 - Answer Display Order
+
+Filter: nan
 
 ## 2025-064b_q7
 
 In the past 7 days, about how often did you see an AI‑generated summary (sometimes labeled ‘AI Overview’) at the top of the results for a query on a search engine?
 
+Filter: nan
+
 ## 2025-064b_q7_1
 
+When you are looking for information online, how often do you use each of the following tools?
 - A search engine like Google or Bing
+
+Filter: nan
 
 ## 2025-064b_q7_2
 
+When you are looking for information online, how often do you use each of the following tools?
 - An AI chatbot like ChatGPT or Gemini
+
+Filter: nan
 
 ## 2025-064b_q8
 
 Are you concerned, not concerned, or have you not thought much about the impact that AI search results may have in decreasing traffic to original websites?
 
+Filter: nan
+
 ## 2025-064b_q9
 
 If Google let you turn AI summaries off, would you…
+
+Filter: nan
 
 ## 2025-064c_q1
 
@@ -337,4 +412,3 @@ In the long run, do you think the use of AI in the workplace will lead to…
 ## 2025-064c_q9
 
 Which of the following AI tools have you heard of?
-

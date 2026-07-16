@@ -154,16 +154,16 @@ question_id,option_id,option_label,is_missing
 2025-064b_q22,4,Rarely,false
 2025-064b_q22,5,Never,false
 2025-064b_q22,6,I haven’t shared AI‑generated content,false
-2025-064b_q23_1,0,"",false
-2025-064b_q23_1,1,"",false
-2025-064b_q23_1,2,"",false
-2025-064b_q23_1,3,"",false
-2025-064b_q23_1,4,"",false
-2025-064b_q23_1,6,"",false
-2025-064b_q23_1,7,"",false
-2025-064b_q23_1,8,"",false
-2025-064b_q23_1,9,"",false
-2025-064b_q23_1,10,"",false
+2025-064b_q23_1,0,,false
+2025-064b_q23_1,1,,false
+2025-064b_q23_1,2,,false
+2025-064b_q23_1,3,,false
+2025-064b_q23_1,4,,false
+2025-064b_q23_1,6,,false
+2025-064b_q23_1,7,,false
+2025-064b_q23_1,8,,false
+2025-064b_q23_1,9,,false
+2025-064b_q23_1,10,,false
 2025-064b_q24,1,Education,false
 2025-064b_q24,2,Healthcare or social assistance,false
 2025-064b_q24,3,Technology or software,false
